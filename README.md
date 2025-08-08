@@ -3,20 +3,24 @@
 
 ## **Public AI Model • Your Machine • Your Rules**
 
-**Ask-Shan is a self-hosted, privacy-centric conversational AI assistant that delivers advanced ChatGPT-like functionality locally on your desktop. It operates without any subscription fees, usage limits, or reliance on cloud services, ensuring full control over your data and seamless, unrestricted access at all times. Ask-Shan is Streamlit application that provides a user-friendly interface for chatting with local AI models through Ollama.**
+**Ask-Shan is a self-hosted, privacy-centric conversational AI assistant that delivers ChatGPT-like functionality locally on your desktop. It operates without any usage limits or reliance on cloud services, ensuring full control over your data and seamless, unrestricted access at all times. Ask-Shan is designed and built using Streamlit that provides a user-friendly interface for chatting with local AI models through Ollama.**
 
 ##  Features
 
-- ** Multiple AI Models**: Support for 30+ popular AI models from Ollama
-- ** Auto-Download**: Automatically download and install models with one click
-- ** Model Management**: View installed models vs available models
-- ** Real-time Chat**: Seamless conversation experience with AI models
-- ** Responsive Design**: Works great on desktop and mobile devices
-- ** Docker Support**: Easy deployment with Docker containerization
+- Multiple AI Models: Support for 30+ popular AI models from Ollama
+- Auto-Download: Automatically download and install models with one click
+- Model Management: View installed models vs available models
+- Real-time Chat: Seamless conversation experience with AI models
+- Responsive Design: Works great on desktop and mobile devices
+- Docker Support: Easy deployment with Docker containerization
+
+![Ask-Shan High Level Interaction](Ask-Shan-HLD.jpg)
 
 ##  Supported Models
 
 Ask-Shan supports a wide range of AI models including:
+
+![Ask-Shan Models](Ask-Shan-Models.jpg)
 
 ### General Purpose Models
 - **Llama Series**: llama3.2, llama3.1, llama3, llama2 (various sizes)
@@ -50,6 +54,8 @@ Ask-Shan supports a wide range of AI models including:
 
 3. **Access the application**
    - Open your browser and navigate to `http://localhost:8501`
+
+![Ask-Shan Coversation](Ask-Shan-Chat.jpg)
 
 ### Option 2: Local Installation
 
