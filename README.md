@@ -1,7 +1,7 @@
 
 # Ask-Shan 
 
-## **Public AI Model • Your Machine • Your Rules**
+## **Your Gateway to Open, Public AI Models — Simple, Secure -->Your Machine -->Your Rules**
 
 **Ask-Shan is a self-hosted, privacy-centric conversational AI assistant that delivers ChatGPT-like functionality locally on your desktop. It operates without any usage limits or reliance on cloud services, ensuring full control over your data and seamless, unrestricted access at all times. Ask-Shan is designed and built using Streamlit that provides a user-friendly interface for chatting with local AI models through Ollama.**
 
